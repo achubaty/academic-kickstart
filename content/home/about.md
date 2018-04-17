@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "insect outbreaks",
+    "forest ecology",
+    "cumulative effects",
+    "simulation modelling"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Biological Sciences"
+  institution = "Simon Fraser University"
+  year = 2014
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Biological Sciences"
+  institution = "University of Calgary"
+  year = 2005
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Chubaty is an ecologist and simulation modeller developing landscape-level models of insect dispersal and forest disturbance.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His research broadly explores the impacts of host selection and dispersal at multiple spatial scales as well as scaling up from individual-based behavioural models to population-, community-, and even landscape-level models of insect outbreak and disturbance.
+

@@ -58,7 +58,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "", url = "https://alexchubaty.com" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "alexchubatyweb_crop.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "amc_pipe_CROP_small.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "alex.chubaty@gmail.com"
   address = "Calgary, AB"
   office_hours = ""

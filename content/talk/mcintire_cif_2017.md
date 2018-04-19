@@ -11,7 +11,7 @@ event = "Canadian Institute of Forestry, Web Seminar"
 event_url = ""
 location = ""
 selected = false
-projects = ["SpaDES"]
+projects = ["spades"]
 tags = [""]
 url_pdf = "https://drive.google.com/file/d/1m8MJtXg-GumxC5LCTygArVuzhiZPC8UU/view?usp=sharing"
 url_slides = ""

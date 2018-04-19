@@ -11,7 +11,7 @@ event = "Canadian Society for Ecology and Evolution"
 event_url = ""
 location = "Victoria, BC"
 selected = false
-projects = ["MPB-SpaDES"]
+projects = ["mpb-spread", "spades"]
 tags = [""]
 url_pdf = "https://drive.google.com/file/d/0B2ZNPaJoLI9xZFJZNVhkZGpsS2M/view?usp=sharing"
 url_slides = ""

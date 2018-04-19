@@ -11,7 +11,7 @@ event = "Joint Annual Meeting of the Entomological Society of Canada"
 event_url = ""
 location = "Winnipeg, MB"
 selected = false
-projects = [""]
+projects = ["mpb-spread", "spades"]
 tags = [""]
 url_pdf = ""
 url_slides = "https://drive.google.com/file/d/0B2ZNPaJoLI9xZFJZNVhkZGpsS2M/view?usp=sharing"

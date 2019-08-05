@@ -1,6 +1,8 @@
 +++
 title = "Cumulative Impacts Monitoring Program (CIMP) SpaDES Workshop"
 date = "2018-10-03"
+date_end = "2018-10-04"
+all_day = true
 draft = false
 authors = ["Alex M Chubaty", "Eliot J B Mcintire"]
 #time_start = ""
@@ -23,5 +25,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-
 +++

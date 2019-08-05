@@ -1,13 +1,13 @@
 +++
-title = "Simulating MPB invasive spread control in Saskatchewan using SpaDES"
-date = "2018-02-06"
+title = "Facing the tree-slayer: forecasting Mountain Pine Beetle spatial spread in SpaDES"
+date = "2019-02-22"
 draft = false
-authors = ["Alex M Chubaty", "Barry J Cooke", "Eliot J B Mcintire"]
+authors = ["Alex M Chubaty", "Eliot J B Mcintire", "Barry J Cooke"]
 #time_start = ""
 #time_end = ""
 abstract = ""
 abstract_short = ""
-event = "SERG International Workshop"
+event = "fRI Research Mountain Pine Beetle Ecology Research Program Workshop"
 event_url = ""
 location = "Edmonton, AB"
 selected = false

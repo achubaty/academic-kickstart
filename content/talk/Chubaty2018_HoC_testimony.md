@@ -2,7 +2,7 @@
 title = "Testimony before the House of Commons Standing Committee on Natural Resources Forest Pests"
 date = "2018-10-04"
 all_day = true
-authors = ["Alex M Chubaty"]
+authors = ["Alex M. Chubaty"]
 abstract = ""
 summary = ""
 event = "House of Commons Standing Committee on Natural Resources Forest Pests"

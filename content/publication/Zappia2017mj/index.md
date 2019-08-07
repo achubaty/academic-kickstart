@@ -3,9 +3,9 @@ title: "State-dependent domicile leaving rates in Anopheles gambiae"
 date: "2018-01-12"
 
 authors:
-- "Simon P Zappia"
+- "Simon P. Zappia"
 - achubaty
-- "Bernard D Roitberg"
+- "Bernard D. Roitberg"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +40,7 @@ url_source: ""
 url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ""
   focal_point: ""

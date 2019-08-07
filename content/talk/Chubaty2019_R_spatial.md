@@ -2,7 +2,7 @@
 title = "Best Practices Working With Spatial Data in R"
 date = "2019-05-02"
 all_day = true
-authors = ["Alex M Chubaty"]
+authors = ["Alex M. Chubaty"]
 abstract = ""
 summary = ""
 event = "fRI Research R Users"

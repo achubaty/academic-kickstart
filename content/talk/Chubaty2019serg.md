@@ -2,7 +2,7 @@
 title = "Integrating fire disturbance with models of mountain pine beetle spread to evaluate efficacy of controlled burns as a management tool"
 date = "2019-02-05"
 all_day = true
-authors = ["Alex M Chubaty", "Barry J Cooke", "Eliot J B Mcintire"]
+authors = ["Alex M. Chubaty", "Barry J. Cooke", "Eliot J. B. McIntire"]
 abstract = ""
 summary = ""
 event = "SERG International Workshop"

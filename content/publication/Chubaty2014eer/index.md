@@ -5,7 +5,7 @@ date: "2014-12-01"
 authors:
 - achubaty
 - "Melanie Hart"
-- "Bernard D Roitberg"
+- "Bernard D. Roitberg"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

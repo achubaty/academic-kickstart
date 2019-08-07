@@ -4,7 +4,7 @@ date: "2009-05-01"
 
 authors:
 - achubaty
-- "Bernard D Roitberg"
+- "Bernard D. Roitberg"
 - "Chao Li"
 
 # Publication type.

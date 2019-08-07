@@ -5,7 +5,7 @@ draft: true
 
 authors:
 - "Sarah Bauduin"
-- "Eliot J B McIntire"
+- "Eliot J. B. McIntire"
 - achubaty
 
 # Publication type.

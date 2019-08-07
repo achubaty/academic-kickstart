@@ -1,5 +1,5 @@
 ---
-titl: "On the evolution of omnivory in a community context"
+title: "On the evolution of omnivory in a community context"
 date: "2014-12-29"
 
 authors:
@@ -28,7 +28,7 @@ summary: ""
 
 doi: "10.1002/ece3.923"
 
-featured: true
+featured: false
 
 tags: []
 
@@ -46,7 +46,7 @@ url_source: ""
 url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ""
   focal_point: ""

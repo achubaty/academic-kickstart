@@ -2,7 +2,7 @@
 title = "Vegetation dynamics in SpaDES: the recoded LANDIS-II biomass succession model"
 date = "2017-05-07"
 all_day = true
-authors = ["Yong Luo", "Eliot J B McIntire", "Alex M Chubaty", "David Andison", "Steve G Cumming"]
+authors = ["Yong Luo", "Eliot J. B. McIntire", "Alex M. Chubaty", "David Andison", "Steve G. Cumming"]
 abstract = ""
 summary = ""
 event = "Canadian Society for Ecology and Evolution"

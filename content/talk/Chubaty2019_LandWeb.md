@@ -2,7 +2,7 @@
 title = "LandWeb: Exploring NRV in the Western Canadian Boreal Forest"
 date = "2018-07-27"
 all_day = true
-authors = ["Alex M Chubaty", "Eliot J B Mcintire", "David W. Andison"]
+authors = ["Alex M. Chubaty", "Eliot J. B. McIntire", "David W. Andison"]
 abstract = ""
 summary = ""
 event = "fRI Research presentation"

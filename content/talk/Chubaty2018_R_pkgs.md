@@ -2,7 +2,7 @@
 title = "Building R packages - Getting started and best practices"
 date = "2018-05-11"
 all_day = true
-authors = ["Alex M Chubaty"]
+authors = ["Alex M. Chubaty"]
 abstract = "I'll be showing how to build and test your first R package. We'll discuss best practices and how to prepare for submission to CRAN or use with GitHub."
 summary = ""
 event = "Biological Sciences R Users Group"

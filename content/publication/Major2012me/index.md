@@ -3,7 +3,7 @@ title: "Estimating colony and breeding population size for nocturnal burrow-nest
 date: "2012-05-21"
 
 authors:
-- "H L Major"
+- "Heather L Major"
 - achubaty
 
 # Publication type.
@@ -39,9 +39,9 @@ url_source: ""
 url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: "" 
+  caption: ""
   focal_point: ""
   preview_only: false
 

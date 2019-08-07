@@ -1,12 +1,10 @@
 +++
 title = "Simulating MPB invasive spread control in Saskatchewan using SpaDES"
 date = "2018-02-06"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty", "Barry J Cooke", "Eliot J B Mcintire"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "SERG International Workshop"
 event_url = ""
 location = "Edmonton, AB"

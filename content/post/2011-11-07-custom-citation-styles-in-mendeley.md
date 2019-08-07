@@ -1,8 +1,27 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2011-11-07"
 title: "Custom Citation Styles in Mendeley"
 tags: ["Mendeley"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 I'm an avid user of [Mendeley](http://www.mendeley.com/) citation management software (CMS), and am pleased with the capabilities of this cross-platform, open-source, and *free* referencing tool. However, one limitation I've encountered is that it does not have very many citiation styles preinstalled, and although many additional formats are available to download through the Mendeley interface, it does not (yet) provide a built-in style editor to customize citiation styles.

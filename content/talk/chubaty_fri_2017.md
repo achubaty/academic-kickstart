@@ -1,12 +1,10 @@
 +++
 title = "Simulating MPB invasive spread control in Saskatchewan using SpaDES"
 date = "2017-01-01"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty", "Eliot J B McIntire", "Barry J Cooke"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "fRI Mountain Pine Beetle Ecology Research Forum"
 event_url = ""
 location = "Edmonton, AB"
@@ -23,5 +21,4 @@ highlight = true
 [header]
 image = ""
 caption = ""
-
 +++

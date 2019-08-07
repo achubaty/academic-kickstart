@@ -1,8 +1,27 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2011-11-14"
 title: "Constructing Pedigrees in R"
 tags: ["R"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 I was looking for a good way to draw pedigrees using software, without having to fuss drawing them "by hand" using a drawing program. Lo and behold, I came across a few different packages in R that allow me to do just that!

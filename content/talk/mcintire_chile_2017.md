@@ -1,12 +1,10 @@
 +++
 title = "Incorporating changing climate in ecological models: feedback, reversals and surprises abound!"
 date = "2017-01-01"
-draft = false
+all_day = true
 authors = ["Eliot J B McIntire", "Sarah Bauduin", "Jean Marchal", "Alana Clason", "Alex M Chubaty", "Steve G Cumming"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "Global climate change and patagonian ecosystem response: present and future challenges"
 event_url = ""
 location = "Coyhaique, Chile"

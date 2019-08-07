@@ -1,8 +1,27 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2013-07-11"
 title: "Essential software for biology grad students: Part II Backups and Version Control"
 tags: ["guides"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 ## Always. Back up. Your data.

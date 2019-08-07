@@ -1,8 +1,27 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2012-02-28"
 title: "list of abbreviated journal names"
 tags: ["Mendeley"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 As a followup to my [previous post](/post/2012-02-09-abbreviated-journal-names-in-mendeley-updated), I wrote a script to generate the master list of journal names and their abbreviations from Web of Science.

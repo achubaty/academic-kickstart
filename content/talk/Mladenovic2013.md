@@ -1,12 +1,10 @@
 +++
 title = "Enhancing Students' Understanding of Biological Concepts by Engaging Them in Research"
 date = "2013-05-15"
-draft = false
+all_day = true
 authors = ["Ivona Mladenovic", "Alex M Chubaty", "A Tirajoh"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "Symposium on Teaching and Learning: Embracing Change @ SFU"
 event_url = ""
 location = "Burnaby, BC"

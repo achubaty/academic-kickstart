@@ -1,12 +1,10 @@
 +++
 title = "LandWeb: Exploring NRV in the Western Canadian Boreal Forest"
 date = "2018-07-27"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty", "Eliot J B Mcintire", "David W. Andison"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "fRI Research presentation"
 event_url = ""
 location = "Hinton, AB"

@@ -1,12 +1,10 @@
 +++
 title = "On the evolution of omnivory in a community context"
 date = "2013-05-12"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty", "Brian O Ma", "R W Stein", "D R Gillespie", "L M Henry", "Conan Phelan", "E Palsson", "Franz W Simon", "Bernard D Roitberg"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "Annual Meeting of the Canadian Society for Ecology and Evolution"
 event_url = ""
 location = "Kelowna, BC"

@@ -1,8 +1,27 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2012-04-13"
 title: "enabling Libre/OpenOffice plugin for Mendeley 1.5"
 tags: ["Mendeley"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 I upgraded to using [Mendeley](http://mendeley.com) v 1.5 (because previous versions don't work on Ubuntu 12.04 Precise) and I had problems installing the OpenOffice plugin. Normally this is easy: in Mendeley you select the *Tools* menu and go to *Install OpenOffice Plugin*. However, for whatever reason the software can't find the plugin, and I get this error:

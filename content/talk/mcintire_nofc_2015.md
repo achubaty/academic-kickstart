@@ -1,12 +1,10 @@
 +++
 title = "The SpaDES platform: : Modern scientific forecasts, backcasts, and decisions"
 date = "2015-07-22"
-draft = false
+all_day = true
 authors = ["Eliot J B McIntire", "Alex M Chubaty"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "Northern Forestry Centre"
 event_url = ""
 location = "Edmonton, AB"

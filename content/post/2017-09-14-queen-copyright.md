@@ -1,11 +1,30 @@
 ---
-author: "Alex Chubaty"
+author:
+- achubaty
 date: "2017-09-14"
 title: "Yes, The Queen is listed as an 'author' on our R packages"
 tags: ["R"]
+featured: false
+draft: false
+math: false
+diagram: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just noticed the Queen is listed as an author in this (and probably other) R packages <a href="https://t.co/ehCb3uHjpx">https://t.co/ehCb3uHjpx</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/KRKKQvlGX4">pic.twitter.com/KRKKQvlGX4</a></p>&mdash; David Smith (@revodavid) <a href="https://twitter.com/revodavid/status/905899118446436358">September 7, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just noticed the Queen is listed as an author in this (and probably other) R packages <a href="https://t.co/ehCb3uHjpx">https://t.co/ehCb3uHjpx</a> <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> <a href="https://t.co/KRKKQvlGX4">pic.twitter.com/KRKKQvlGX4</a></p>&mdash; David Smith (`@revodavid`) <a href="https://twitter.com/revodavid/status/905899118446436358">September 7, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 A [number](https://twitter.com/JennyBryan/status/585955759525007360) [of](http://www.pieceofk.fr/?p=431) [people](https://twitter.com/hspter/status/908263547167277056) have been surprised to learn that Her Majesty the Queen is listed as an author on a number of our packages.
@@ -28,8 +47,7 @@ For example, take a look at the packages produced by RStudio (*e.g.*, [`dplyr`](
 As a Canadian public servant, the Crown holds copyright on our work, including R packages.
 (Next time you're reading a scientific paper produced by a federal employee note the copyright -- most publishers assign Crown Copyright in these cases instead of the publisher itself maintaining copyright. *E.g.*, [Elsevier](https://www.elsevier.com/about/our-business/policies/copyright#Government-employees).)
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Queen Elizabeth II has another <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> package on CRAN. This one&#39;s for reproducible research. <a href="https://t.co/T71aefEPTL">https://t.co/T71aefEPTL</a></p>&mdash; Thomas Leeper (@thosjleeper) <a href="https://twitter.com/thosjleeper/status/894176471392059392">August 6, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Queen Elizabeth II has another <a href="https://twitter.com/hashtag/rstats?src=hash">#rstats</a> package on CRAN. This one&#39;s for reproducible research. <a href="https://t.co/T71aefEPTL">https://t.co/T71aefEPTL</a></p>&mdash; Thomas Leeper (`@thosjleeper`) <a href="https://twitter.com/thosjleeper/status/894176471392059392">August 6, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So while it may be a little surprising to see The Queen listed (as copyright holder) in the authors list for several R packages, assigning copyright to one's employer is common in general, and expected for public servants in Canada (and likely other Commonwealth countries).
-

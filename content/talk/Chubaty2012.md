@@ -1,12 +1,10 @@
 +++
 title = "To tree or not to tree: energy and time limited habitat settlement decisions in bark beetles"
 date = "2012-11-22"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "Les Écologistes Seminar Series, Simon Fraser University"
 event_url = ""
 location = "Burnaby, BC"

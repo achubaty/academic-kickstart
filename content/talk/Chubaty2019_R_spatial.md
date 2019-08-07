@@ -1,12 +1,10 @@
 +++
 title = "Best Practices Working With Spatial Data in R"
 date = "2019-05-02"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "fRI Research R Users"
 event_url = ""
 location = "Hinton, AB"

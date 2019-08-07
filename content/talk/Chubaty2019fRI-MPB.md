@@ -1,12 +1,10 @@
 +++
 title = "Facing the tree-slayer: forecasting Mountain Pine Beetle spatial spread in SpaDES"
 date = "2019-02-22"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty", "Eliot J B Mcintire", "Barry J Cooke"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "fRI Research Mountain Pine Beetle Ecology Research Program Workshop"
 event_url = ""
 location = "Edmonton, AB"

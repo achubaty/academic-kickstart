@@ -1,12 +1,10 @@
 +++
 title = "Testimony before the House of Commons Standing Committee on Natural Resources Forest Pests"
 date = "2018-10-04"
-draft = false
+all_day = true
 authors = ["Alex M Chubaty"]
-#time_start = ""
-#time_end = ""
 abstract = ""
-abstract_short = ""
+summary = ""
 event = "House of Commons Standing Committee on Natural Resources Forest Pests"
 event_url = ""
 location = "Ottawa, ON (videconference)"

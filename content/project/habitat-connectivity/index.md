@@ -2,7 +2,7 @@
 title: "Habitat Connectivity"
 date: 2018-04-16T20:41:21-06:00
 
-summary: "We have recently reimplemented and updated the [`grainscape`](https://alexchubaty.com/grainscape) package for R for use in landscape connectivity, habitat, and protected area network analyses."
+summary: "We have reimplemented and updated the `grainscape` R package for landscape connectivity, habitat, and protected area network analyses."
 
 tags:
 - "grainscape"

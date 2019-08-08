@@ -18,6 +18,9 @@ copyright =  "&copy; {year}"
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-34446208-1"
 
+# Enable comments by entering your Disqus shortname
+disqusShortname = "alexmchubaty" ## remove when updating to v4.5?
+
 ############################
 ## Advanced options below ##
 ############################

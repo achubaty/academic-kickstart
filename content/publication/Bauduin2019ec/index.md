@@ -21,7 +21,7 @@ abstract: "NetLogoR is an R package to build and run spatially explicit agent-ba
 
 summary: ""
 
-doi: ""
+doi: "10.1111/ecog.04516"
 
 featured: true
 

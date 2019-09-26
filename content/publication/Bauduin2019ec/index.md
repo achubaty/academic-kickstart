@@ -1,7 +1,6 @@
 ---
 title: "NetLogoR: A package to build and run spatially explicit agent-based models in R"
 date: "2019-08-05"
-draft: true
 
 authors:
 - "Sarah Bauduin"
@@ -41,7 +40,7 @@ url_source: ""
 url_video: ""
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ""
   focal_point: ""

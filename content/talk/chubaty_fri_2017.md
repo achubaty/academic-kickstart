@@ -1,6 +1,6 @@
 +++
 title = "Simulating MPB invasive spread control in Saskatchewan using SpaDES"
-date = "2017-01-01"
+date = "2017-04-25"
 all_day = true
 authors = ["Alex M. Chubaty", "Eliot J. B. McIntire", "Barry J. Cooke"]
 abstract = ""

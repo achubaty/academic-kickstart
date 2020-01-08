@@ -2,7 +2,7 @@
 author:
 - achubaty
 date: "2020-01-08"
-title: "Using the latest GDAL with R packages on macOS _redux_"
+title: "Using the latest GDAL with R packages on macOS - redux"
 tags: ["R"]
 featured: false
 draft: false
@@ -24,7 +24,7 @@ image:
 projects: []
 ---
 
-As an update to an earlier post, here's how to use the latest versions of GDAL/PROJ with R spatial packages.
+As an update to an [earlier post](/post/2016-12-13-using-latest-gdal-macos), here's how to use the latest versions of GDAL/PROJ with R spatial packages.
 
 ## Install GDAL
 

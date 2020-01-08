@@ -24,6 +24,8 @@ image:
 projects: []
 ---
 
+**UPDATE:** see more recent version of this post [here](/post/2020-01-08-using-latest-gdal-macos-redux).
+
 I wanted to play around with the new [`sf`](https://cran.r-project.org/package=sf
 ) package, which requires the latest GDAL (>= 2.0.0), GEOS (>= 3.3.0), and PROJ.4 (>= 4.8.0).
 However, the version of GDAL [installed via `brew`]({{< relref "2014-08-05-installing-rgdal-osx.md" >}}) is 1.11.4, so I needed to update to the latest version and reinstall a few R packages in order to get `sf` to work on macOS.

@@ -57,6 +57,7 @@ subtitle = ""
 - `SpaDES`: Develop and run spatially explicit discrete event simulation models. [CRAN](https://cran.r-project.org/package=SpaDES); [GitHub](https://github.com/PredictiveEcology/SpaDES); [Website](http://spades.predictiveecology.org/)
 - `SpaDES.addins`: Tools and RStudio addins for 'SpaDES' and 'SpaDES' module development. [CRAN](https://cran.r-project.org/package=SpaDES.addins); [GitHub](https://github.com/PredictiveEcology/SpaDES.addins); [Website](http://spades-addins.predictiveecology.org/)
 - `SpaDES.core`: Core functionality for Spatial Discrete Event Simulation (SpaDES). [CRAN](https://cran.r-project.org/package=SpaDES.core); [GitHub](https://github.com/PredictiveEcology/SpaDES.core); [Website](http://spades-core.predictiveecology.org/)
+- `SpaDES.experiment`: Simulation experiments within the `SpaDES` ecosystem. [GitHub](https://github.com/PredictiveEcology/SpaDES.experiment/); [Website](https://spades-experiment.predictiveecology.org)
 - `SpaDES.shiny`: Utilities for building `shiny`-based apps for `SpaDES` simulations. [GitHub](https://github.com/PredictiveEcology/SpaDES.shiny); [Website](http://spades-shiny.predictiveecology.org/)
 - `SpaDES.tools`: Additional modelling tools for Spatial Discrete Event Simulation (SpaDES) module development. [CRAN](https://cran.r-project.org/package=SpaDES.tools); [GitHub](https://github.com/PredictiveEcology/SpaDES.tools); [Website](http://spades-tools.predictiveecology.org/)
 

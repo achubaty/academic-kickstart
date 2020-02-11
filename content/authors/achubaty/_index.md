@@ -16,8 +16,8 @@ role: "Ecologist and simulation modeller"
 organizations:
 - name: ""
   url: "https://alexchubaty.com"
-- name: "fRI Research"
-  url: "https://friresearch.ca"
+- name: "FOR-CAST Research & Analytics"
+  url: "http://for-cast.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -63,7 +63,7 @@ social:
   #   icon_pack: ai
   #   link: files/cv.pdf
 
-email: "alex.chubaty@gmail.com"
+email: "achubaty@for-cast.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  

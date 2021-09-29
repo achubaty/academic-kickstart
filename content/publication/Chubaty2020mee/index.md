@@ -37,8 +37,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
-url_code:
+url_pdf: "https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.13350"
+url_code: "https://github.com/achubaty/grainscape"
 url_dataset:
 url_poster:
 url_project:

@@ -30,8 +30,8 @@ tags: []
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ""
-url_code: ""
+url_pdf: "https://onlinelibrary.wiley.com/doi/epdf/10.1111/ecog.04516"
+url_code: "https://github.com/PredictiveEcology/NetLogoR"
 url_dataset: ""
 url_poster: ""
 url_project: ""

@@ -72,6 +72,8 @@ email: "achubaty@for-cast.ca"
 # - Visitors
 ---
 
-Dr. Chubaty is an ecologist and simulation modeller developing landscape-level models of insect dispersal and forest disturbance.
+Dr. Chubaty an ecologist, simulation modeller and co-developer of the open source SpaDES simulation platform.
+He completed his PhD at Simon Fraser University modelling host selection in mountain pine beetle (MPB), and postdoctoral research at Université Laval and Natural Resources Canada developing forecasting models of MPB spread.
 
-His research broadly explores the impacts of host selection and dispersal at multiple spatial scales as well as scaling up from individual-based behavioural models to population-, community-, and even landscape-level models of insect outbreak and disturbance.
+He currently operate FOR-CAST Research & Analytics in Calgary, Canada, which supports the development and integration of models simulating forest vegetation dynamics, wildfire, insect disturbance, and wildlife populations to inform decision making for land management and species at risk.
+He is an advocate for open source, open data, and reproducible workflows.

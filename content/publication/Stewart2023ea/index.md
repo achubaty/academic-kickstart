@@ -3,22 +3,22 @@
 
 title: "Climate-informed forecasts reveal dramatic local habitat shifts and population uncertainty for northern boreal caribou"
 authors:
-- "Frances Stewart"
+- "Frances E C Stewart"
 - "Tati Micheletti"
-- "Steve Cumming"
+- "Steven G Cumming"
 - "Ceres Barros"
 - achubaty
 - "Amanda Dookie"
 - "Isabelle Duclos"
-- "Ian Eddy"
+- "Ian M S Eddy"
 - "Samuel Haché"
 - "James Hodson"
 - "Josie Hughes"
 - "Cheryl Johnson"
 - "Mathieu Leblond"
 - "Fiona Schmiegelow"
-- "Junior Tremblay"
-- "Eliot McIntire"
+- "Junior A Tremblay"
+- "Eliot J B McIntire"
 date: "2023-02-08"
 doi: "10.1002/eap.2816"
 draft: false

@@ -4,10 +4,10 @@ date: "2011-01-08"
 
 authors:
 - "Zaid Jumean"
-- "Brian O. Ma"
-- achubaty
+- "Brian O Ma"
+- "Alex M Chubaty"
 - "Christopher W Ellenor"
-- "Bernard D. Roitberg"
+- "Bernard D Roitberg"
 - "Gerhard Gries"
 
 # Publication type.

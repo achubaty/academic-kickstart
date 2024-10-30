@@ -3,15 +3,15 @@ title: "On the evolution of omnivory in a community context"
 date: "2014-12-29"
 
 authors:
-- achubaty
-- "Brian O. Ma"
-- "Robert W. Stein"
-- "David R. Gillespie"
-- "Lee M. Henry"
+- "Alex M Chubaty"
+- "Brian O Ma"
+- "Robert W Stein"
+- "David R Gillespie"
+- "Lee M Henry"
 - "Conan Phelan"
 - "Eirikur Palsson"
-- "Franz W. Simon"
-- "Bernard D. Roitberg"
+- "Franz W Simon"
+- "Bernard D Roitberg"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

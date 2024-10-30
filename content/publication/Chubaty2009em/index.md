@@ -3,7 +3,7 @@ title: "A dynamic host selection model for mountain pine beetle, Dendroctonus po
 date: "2009-05-01"
 
 authors:
-- achubaty
+- "Alex M Chubaty"
 - "Bernard D. Roitberg"
 - "Chao Li"
 

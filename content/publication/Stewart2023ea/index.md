@@ -7,7 +7,7 @@ authors:
 - "Tati Micheletti"
 - "Steven G Cumming"
 - "Ceres Barros"
-- achubaty
+- "Alex M Chubaty"
 - "Amanda Dookie"
 - "Isabelle Duclos"
 - "Ian M S Eddy"

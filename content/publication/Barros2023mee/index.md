@@ -5,7 +5,7 @@ title: "Empowering ecological modellers with a PERFICT workflow: Seamlessly link
 authors:
 - "Ceres Barros"
 - "Yong Luo"
-- achubaty
+- "Alex M Chubaty"
 - "Ian M S Eddy"
 - "Tatiane Micheletti"
 - "Céline Boisvenue"

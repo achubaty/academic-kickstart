@@ -3,7 +3,7 @@ title: "Individual host selection decisions and population-level responses in a 
 date: "2013-09-26"
 
 authors:
-- achubaty
+- "Alex M Chubaty"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

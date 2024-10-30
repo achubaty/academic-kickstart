@@ -3,16 +3,16 @@
 
 title: "Predictive Ecology: a re-imagined foundation and the tools for ecological models"
 authors:
-- "Eliot McIntire"
-- achubaty
-- "Steve Cumming"
-- "David Andison"
+- "Eliot J B McIntire"
+- "Alex M Chubaty"
+- "Steven G Cumming"
+- "David W Andison"
 - "Ceres Barros"
 - "Céline Boisvenue"
 - "Samuel Haché"
 - "Yong Luo"
 - "Tati Micheletti"
-- "Francis EC Stewart"
+- "Francis E C Stewart"
 date: "2022-03-22"
 doi: "10.1111/ele.13994"
 draft: false

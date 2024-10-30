@@ -2,7 +2,7 @@
 title = "Boreal insect disturbance in SpaDES: an integrated simulation model of mountain pine beetle eastward spread"
 date = "2017-05-07"
 all_day = true
-authors = ["Alex M. Chubaty", "Eliot J. B. McIntire", "Barry J. Cooke", "Steve G. Cumming", "Yong Luo"]
+authors = ["Alex M Chubaty", "Eliot J B McIntire", "Barry J Cooke", "Steve G Cumming", "Yong Luo"]
 abstract = ""
 summary = ""
 event = "Canadian Society for Ecology and Evolution"

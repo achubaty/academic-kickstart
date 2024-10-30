@@ -11,7 +11,7 @@ authors:
 - "Junior A Tremblay"
 - "Ceres Barros"
 - "Ian M S Eddy"
-- achubaty
+- "Alex M Chubaty"
 - "Mathieu Leblond"
 - "C Lisa Mahon"
 - "Steven L Van Wilgenburg"

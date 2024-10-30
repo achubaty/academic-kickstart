@@ -7,7 +7,7 @@ authors:
 - "Gregory Paradis"
 - "Ian M S Eddy"
 - "Eliot J B McIntire"
-- achubaty
+- "Alex M Chubaty"
 date: "2022-10-21"
 doi: "10.1088/1748-9326/ac9919"
 draft: false

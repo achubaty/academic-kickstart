@@ -3,9 +3,9 @@ title: "To tree or not to tree: The role of energy limitation on host tree accep
 date: "2014-12-01"
 
 authors:
-- achubaty
+- "Alex M Chubaty"
 - "Melanie Hart"
-- "Bernard D. Roitberg"
+- "Bernard D Roitberg"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

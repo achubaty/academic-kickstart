@@ -4,8 +4,8 @@ date: "2019-08-05"
 
 authors:
 - "Sarah Bauduin"
-- "Eliot J. B. McIntire"
-- achubaty
+- "Eliot J B McIntire"
+- "Alex M Chubaty"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

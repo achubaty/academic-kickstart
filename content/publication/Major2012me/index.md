@@ -4,7 +4,7 @@ date: "2012-05-21"
 
 authors:
 - "Heather L Major"
-- achubaty
+- "Alex M Chubaty"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -2,7 +2,7 @@
 title = "SpaDES: Spatial Discrete Event Simulation"
 date = "2014-11-25"
 all_day = true
-authors = ["Alex M. Chubaty", "Eliot J. B. McIntire"]
+authors = ["Alex M Chubaty", "Eliot J B McIntire"]
 abstract = ""
 summary = ""
 event = "Northern Forestry Centre"

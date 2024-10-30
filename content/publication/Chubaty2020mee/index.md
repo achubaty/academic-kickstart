@@ -3,7 +3,7 @@
 
 title: "The R toolbox grainscape for modelling and visualizing landscape connectivity using spatially explicit networks"
 authors:
-- achubaty
+- "Alex M Chubaty"
 - "Paul Galpern"
 - "Sam Doctolero"
 date: "2020-01-18"

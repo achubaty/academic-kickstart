@@ -2,7 +2,7 @@
 title = "Getting to answers, in SpaDES"
 date = "2016-02-01"
 all_day = true
-authors = ["Eliot J. B. McIntire", "Alex M. Chubaty", "David Andison"]
+authors = ["Eliot J B McIntire", "Alex M Chubaty", "David W Andison"]
 abstract = ""
 summary = ""
 event = "FaCOP Webinar Series"

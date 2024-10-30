@@ -2,7 +2,7 @@
 title = "Energy reserves modulate host acceptance decisions in mountain pine beetles"
 date = "2010-11-01"
 all_day = true
-authors = ["Alex M. Chubaty"]
+authors = ["Alex M Chubaty"]
 abstract = "I tested the role of energy reserves on the host tree acceptance of mountain pine beetle (MPB) adults on host trees. Newly-emerged adult MPBs were kept at either high or low temperatures, depleting their lipid reserves at different rates, and thus to different levels. Beetles were introduced onto girdled lodgepole pine trees of either poor or high quality, and their willingness to accept the host was measured. Survival analysis showed low energy beetles accepted both poor quality trees sooner than did high energy beetles, and beetles on good quality trees accepted sooner than beetles on poor quality trees."
 summary = ""
 event = "Joint Annual Meeting of the Entomological Societies of Canada and British Columbia"

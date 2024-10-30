@@ -54,9 +54,9 @@ social:
 - icon: "github"
   icon_pack: "fab"
   link: "https://github.com/achubaty"
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 email: "achubaty@for-cast.ca"
 

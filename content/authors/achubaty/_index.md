@@ -17,7 +17,7 @@ organizations:
 - name: ""
   url: "https://alexchubaty.com"
 - name: "FOR-CAST Research & Analytics"
-  url: "http://for-cast.ca"
+  url: "https://for-cast.ca"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -45,9 +45,6 @@ social:
 - icon: "envelope"
   icon_pack: "fas"
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: "twitter"
-#  icon_pack: "fab"
-#  link: "https://twitter.com/XXXXXXXX"
 - icon: "google-scholar"
   icon_pack: "ai"
   link: "https://scholar.google.com/citations?user=MnxAoasAAAAJ"
@@ -57,11 +54,9 @@ social:
 - icon: "github"
   icon_pack: "fab"
   link: "https://github.com/achubaty"
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: files/cv.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 email: "achubaty@for-cast.ca"
 
@@ -77,3 +72,4 @@ He completed his PhD at Simon Fraser University modelling host selection in moun
 
 He currently operates FOR-CAST Research & Analytics in Calgary, Canada, which supports the development and integration of models simulating forest vegetation dynamics, wildfire, insect disturbance, and wildlife populations to inform decision making for land management and species at risk.
 He is an advocate for open source, open data, and reproducible workflows.
+

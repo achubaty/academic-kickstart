@@ -22,7 +22,7 @@ authors:
 - "Steven G Cumming"
 date: "2023-12-18"
 doi: "10.1016/j.ecochg.2023.100079"
-draft: true
+draft: false
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

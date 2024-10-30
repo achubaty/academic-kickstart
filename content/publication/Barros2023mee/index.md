@@ -6,12 +6,12 @@ authors:
 - "Ceres Barros"
 - "Yong Luo"
 - achubaty
-- "Ian Eddy"
+- "Ian M S Eddy"
 - "Tatiane Micheletti"
 - "Céline Boisvenue"
-- "David Andison"
-- "Steve Cumming"
-- "Eliot McIntire"
+- "David W Andison"
+- "Steven G Cumming"
+- "Eliot J B McIntire"
 date: "2022-12-20"
 doi: "10.1111/2041-210X.14034"
 draft: false
